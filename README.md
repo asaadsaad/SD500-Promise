@@ -18,7 +18,6 @@ isPrime(7)
     .catch(console.error);
 console.log('end');
 
-// Output:
 // start
 // end
 // { prime: true }
